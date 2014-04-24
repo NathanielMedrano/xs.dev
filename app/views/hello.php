@@ -178,7 +178,6 @@
         </div>
     </div> -->
     <!-- /Call to Action -->
-
     <!-- Map -->
     <div id="contact" class="map">
         <iframe width="75%" height="75%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1732.8118104490554!2d-98.50045100000003!3d29.70169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865c7d4ca6160f01%3A0x902e6b08549d24fa!2s503+Heavenly+Sky!5e0!3m2!1sen!2sus!4v1398297062718" width="600" height="450" frameborder="0" style="border:0"></iframe>

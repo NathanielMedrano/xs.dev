@@ -11,7 +11,10 @@
 |
 */
 
-Route::get('/', function()
-{
-	return View::make('hello');
-});
+Route::get('/', 'HomeController@index');
+Route::get('/about', 'HomeController@about');
+Route::get('/services', 'HomeController@services');
+Route::get('/capability', 'HomeController@capability');
+Route::get('/cert', 'HomeController@cert');
+Route::get('/contact', 'HomeController@contact');
+Route::get('/portfolio', 'HomeController@portfolio');

@@ -79,7 +79,7 @@
 
 							<div class="block text-right"><!-- social -->
 								(210) 324 4222 &bull;
-								<a href="www.linkedin.com/pub/priscilla-contreras/28/379/879" class="social fa fa-linkedin"></a>
+								<a href="https://www.linkedin.com/pub/priscilla-contreras/28/379/879" class="social fa fa-linkedin"></a>
 							</div><!-- /social -->
 
 						</div>
